@@ -1,6 +1,6 @@
 # test-cicd-flask-docker
 
-Trying docker in a context of CI/CD, and playing with it all.
+Trying docker, flask and postgres in a context of CI/CD, and playing with it all.
 
 ### TODOS:
 - Make tests run on a separate build job.
