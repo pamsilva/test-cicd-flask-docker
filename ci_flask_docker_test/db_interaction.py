@@ -3,7 +3,7 @@ import psycopg2
 
 def get_cursor_to_database():
     connection = psycopg2.connect(
-        host="localhost",
+        host="postgres",
         database="postgres",
         user="postgres",
         password="postgres"
